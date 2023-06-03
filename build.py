@@ -155,7 +155,7 @@ for i in range(len(dishes)):
         dd.description,
         dd.keywords,
         dd.language,
-        dd.name,
+        dd["name"],
         dd.video_url,
         dd.thumbnail_url,
         dd.score,
