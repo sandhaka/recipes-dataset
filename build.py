@@ -2,29 +2,6 @@ import json
 import numpy
 import pandas as pd
 
-dish_columns = [
-    "id_",
-    "country",
-    "description",
-    "keywords",
-    "language",
-    "name",
-    "video_url",
-    "thumbnail_url",
-    "score",
-    "protein",
-    "fat",
-    "calories",
-    "sugar",
-    "carbohydrates",
-    "fiber",
-    "cook_time",
-    "prep_time",
-    "total_time",
-    "slug",
-    "tags",
-]
-
 
 # Dataset schema
 class Dish:
@@ -144,6 +121,29 @@ for i in range(len(tags)):
     td = tags.loc[i, ["id", "name", "display_name", "type"]]
     tag = Tag(int(td.id), td["name"], td.display_name, td.type)
     tags_collection.append(tag)
+
+dish_columns = [
+    "id_",
+    "country",
+    "description",
+    "keywords",
+    "language",
+    "name",
+    "video_url",
+    "thumbnail_url",
+    "score",
+    "protein",
+    "fat",
+    "calories",
+    "sugar",
+    "carbohydrates",
+    "fiber",
+    "cook_time",
+    "prep_time",
+    "total_time",
+    "slug",
+    "tags",
+]
 
 for i in range(len(dishes)):
     dd = dishes.loc[i, dish_columns]
