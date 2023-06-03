@@ -1,0 +1,1910 @@
+[
+    {
+        "id": 7336057,
+        "name": "shoppable_recipes_desserts",
+        "display_name": "Shoppable Recipes Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 6854262,
+        "name": "mothers_day",
+        "display_name": "Mother's Day",
+        "type": "holiday"
+    },
+    {
+        "id": 5993378,
+        "name": "tasty_s_5th_birthday_sweet",
+        "display_name": "Tasty's 5th Birthday: Sweet",
+        "type": "feature_page"
+    },
+    {
+        "id": 5831534,
+        "name": "best_of_tasty",
+        "display_name": "Best of Tasty",
+        "type": "business_tags"
+    },
+    {
+        "id": 1280501,
+        "name": "chefs_knife",
+        "display_name": "Chef's Knife",
+        "type": "equipment"
+    },
+    {
+        "id": 1247793,
+        "name": "whisk",
+        "display_name": "Whisk",
+        "type": "equipment"
+    },
+    {
+        "id": 1247784,
+        "name": "plastic_wrap",
+        "display_name": "Plastic Wrap",
+        "type": "equipment"
+    },
+    {
+        "id": 1280512,
+        "name": "rolling_pin",
+        "display_name": "Rolling Pin",
+        "type": "equipment"
+    },
+    {
+        "id": 1280503,
+        "name": "cutting_board",
+        "display_name": "Cutting Board",
+        "type": "equipment"
+    },
+    {
+        "id": 1280507,
+        "name": "dry_measuring_cups",
+        "display_name": "Dry Measuring Cups",
+        "type": "equipment"
+    },
+    {
+        "id": 1247794,
+        "name": "wooden_spoon",
+        "display_name": "Wooden Spoon",
+        "type": "equipment"
+    },
+    {
+        "id": 1280506,
+        "name": "liquid_measuring_cup",
+        "display_name": "Liquid Measuring Cup",
+        "type": "equipment"
+    },
+    {
+        "id": 1280510,
+        "name": "mixing_bowl",
+        "display_name": "Mixing Bowl",
+        "type": "equipment"
+    },
+    {
+        "id": 65851,
+        "name": "big_batch",
+        "display_name": "Big Batch",
+        "type": "cooking_style"
+    },
+    {
+        "id": 64488,
+        "name": "kid_friendly",
+        "display_name": "Kid-Friendly",
+        "type": "cooking_style"
+    },
+    {
+        "id": 64492,
+        "name": "bake",
+        "display_name": "Bake",
+        "type": "cooking_style"
+    },
+    {
+        "id": 64483,
+        "name": "breakfast",
+        "display_name": "Breakfast",
+        "type": "meal"
+    },
+    {
+        "id": 64503,
+        "name": "casual_party",
+        "display_name": "Casual Party",
+        "type": "occasion"
+    },
+    {
+        "id": 64484,
+        "name": "brunch",
+        "display_name": "Brunch",
+        "type": "occasion"
+    },
+    {
+        "id": 65850,
+        "name": "indulgent_sweets",
+        "display_name": "Indulgent Sweets",
+        "type": "occasion"
+    },
+    {
+        "id": 65857,
+        "name": "bakery_goods",
+        "display_name": "Bakery Goods",
+        "type": "meal"
+    },
+    {
+        "id": 64444,
+        "name": "american",
+        "display_name": "American",
+        "type": "cuisine"
+    },
+    {
+        "id": 65846,
+        "name": "oven",
+        "display_name": "Oven",
+        "type": "appliance"
+    },
+    {
+        "id": 64487,
+        "name": "drinks",
+        "display_name": "Drinks",
+        "type": "meal"
+    },
+    {
+        "id": 64470,
+        "name": "5_ingredients_or_less",
+        "display_name": "5 Ingredients or Less",
+        "type": "difficulty"
+    },
+    {
+        "id": 8091916,
+        "name": "low_calorie",
+        "display_name": "Low-Calorie",
+        "type": "healthy"
+    },
+    {
+        "id": 6718867,
+        "name": "tips_viral",
+        "display_name": "Tips Viral",
+        "type": "feature_page"
+    },
+    {
+        "id": 64471,
+        "name": "easy",
+        "display_name": "Easy",
+        "type": "difficulty"
+    },
+    {
+        "id": 64465,
+        "name": "gluten_free",
+        "display_name": "Gluten-Free",
+        "type": "dietary"
+    },
+    {
+        "id": 65844,
+        "name": "hand_mixer",
+        "display_name": "Hand Mixer",
+        "type": "appliance"
+    },
+    {
+        "id": 64469,
+        "name": "vegetarian",
+        "display_name": "Vegetarian",
+        "type": "dietary"
+    },
+    {
+        "id": 8091748,
+        "name": "under_1_hour",
+        "display_name": "Under 1 Hour",
+        "type": "difficulty"
+    },
+    {
+        "id": 8091747,
+        "name": "under_45_minutes",
+        "display_name": "Under 45 Minutes",
+        "type": "difficulty"
+    },
+    {
+        "id": 8091917,
+        "name": "high_protein",
+        "display_name": "High-Protein",
+        "type": "healthy"
+    },
+    {
+        "id": 64488,
+        "name": "kid_friendly",
+        "display_name": "Kid-Friendly",
+        "type": "dietary"
+    },
+    {
+        "id": 65410,
+        "name": "fusion",
+        "display_name": "Fusion",
+        "type": "cuisine"
+    },
+    {
+        "id": 65848,
+        "name": "stove_top",
+        "display_name": "Stove Top",
+        "type": "appliance"
+    },
+    {
+        "id": 1247768,
+        "name": "cake_pan",
+        "display_name": "Cake Pan",
+        "type": "equipment"
+    },
+    {
+        "id": 1280513,
+        "name": "sieve",
+        "display_name": "Sieve",
+        "type": "equipment"
+    },
+    {
+        "id": 1280504,
+        "name": "fish_spatula",
+        "display_name": "Fish Spatula",
+        "type": "equipment"
+    },
+    {
+        "id": 64498,
+        "name": "steam",
+        "display_name": "Steam",
+        "type": "method"
+    },
+    {
+        "id": 64454,
+        "name": "japanese",
+        "display_name": "Japanese",
+        "type": "cuisine"
+    },
+    {
+        "id": 64462,
+        "name": "comfort_food",
+        "display_name": "Comfort Food",
+        "type": "dietary"
+    },
+    {
+        "id": 1280508,
+        "name": "measuring_spoons",
+        "display_name": "Measuring Spoons",
+        "type": "equipment"
+    },
+    {
+        "id": 65843,
+        "name": "freezer",
+        "display_name": "Freezer",
+        "type": "appliance"
+    },
+    {
+        "id": 1247788,
+        "name": "spatula",
+        "display_name": "Spatula",
+        "type": "equipment"
+    },
+    {
+        "id": 1280500,
+        "name": "baking_pan",
+        "display_name": "Baking Pan",
+        "type": "equipment"
+    },
+    {
+        "id": 1247785,
+        "name": "pyrex",
+        "display_name": "Pyrex",
+        "type": "equipment"
+    },
+    {
+        "id": 65850,
+        "name": "indulgent_sweets",
+        "display_name": "Indulgent Sweets",
+        "type": "dietary"
+    },
+    {
+        "id": 1247775,
+        "name": "oven_mitts",
+        "display_name": "Oven Mitts",
+        "type": "equipment"
+    },
+    {
+        "id": 64473,
+        "name": "christmas",
+        "display_name": "Christmas",
+        "type": "holiday"
+    },
+    {
+        "id": 64492,
+        "name": "bake",
+        "display_name": "Bake",
+        "type": "method"
+    },
+    {
+        "id": 64463,
+        "name": "dairy_free",
+        "display_name": "Dairy-Free",
+        "type": "dietary"
+    },
+    {
+        "id": 1247787,
+        "name": "saute_pan",
+        "display_name": "Saute Pan",
+        "type": "equipment"
+    },
+    {
+        "id": 65855,
+        "name": "one_pot_or_pan",
+        "display_name": "One-Pot or Pan",
+        "type": "cooking_style"
+    },
+    {
+        "id": 65859,
+        "name": "pan_fry",
+        "display_name": "Pan Fry",
+        "type": "cooking_style"
+    },
+    {
+        "id": 64466,
+        "name": "healthy",
+        "display_name": "Healthy",
+        "type": "dietary"
+    },
+    {
+        "id": 65840,
+        "name": "cast_iron_pan",
+        "display_name": "Cast Iron Pan",
+        "type": "appliance"
+    },
+    {
+        "id": 6718864,
+        "name": "tips_basics",
+        "display_name": "Tips Basics",
+        "type": "feature_page"
+    },
+    {
+        "id": 65859,
+        "name": "pan_fry",
+        "display_name": "Pan Fry",
+        "type": "method"
+    },
+    {
+        "id": 65838,
+        "name": "blender",
+        "display_name": "Blender",
+        "type": "appliance"
+    },
+    {
+        "id": 8091919,
+        "name": "low_fat",
+        "display_name": "Low-Fat",
+        "type": "healthy"
+    },
+    {
+        "id": 8091918,
+        "name": "low_sugar",
+        "display_name": "Low-Sugar",
+        "type": "healthy"
+    },
+    {
+        "id": 65851,
+        "name": "big_batch",
+        "display_name": "Big Batch",
+        "type": "dish_style"
+    },
+    {
+        "id": 64467,
+        "name": "low_carb",
+        "display_name": "Low-Carb",
+        "type": "healthy"
+    },
+    {
+        "id": 8030032,
+        "name": "charcuterie_breakfast",
+        "display_name": "Charcuterie Breakfast",
+        "type": "feature_page"
+    },
+    {
+        "id": 6543464,
+        "name": "nynm_protein",
+        "display_name": "NYNM Protein",
+        "type": "feature_page"
+    },
+    {
+        "id": 65852,
+        "name": "mashup",
+        "display_name": "Mashup",
+        "type": "cooking_style"
+    },
+    {
+        "id": 64491,
+        "name": "snacks",
+        "display_name": "Snacks",
+        "type": "meal"
+    },
+    {
+        "id": 1247767,
+        "name": "bread_pan",
+        "display_name": "Bread Pan",
+        "type": "equipment"
+    },
+    {
+        "id": 64511,
+        "name": "winter",
+        "display_name": "Winter",
+        "type": "seasonal"
+    },
+    {
+        "id": 64505,
+        "name": "weeknight",
+        "display_name": "Weeknight",
+        "type": "occasion"
+    },
+    {
+        "id": 64447,
+        "name": "british",
+        "display_name": "British",
+        "type": "cuisine"
+    },
+    {
+        "id": 64462,
+        "name": "comfort_food",
+        "display_name": "Comfort Food",
+        "type": "cooking_style"
+    },
+    {
+        "id": 8091920,
+        "name": "high_fiber",
+        "display_name": "High-Fiber",
+        "type": "healthy"
+    },
+    {
+        "id": 64449,
+        "name": "french",
+        "display_name": "French",
+        "type": "cuisine"
+    },
+    {
+        "id": 1280498,
+        "name": "cooking_kit",
+        "display_name": "Cooking Kit",
+        "type": "business_tags"
+    },
+    {
+        "id": 1280511,
+        "name": "offset_spatula",
+        "display_name": "Offset Spatula",
+        "type": "equipment"
+    },
+    {
+        "id": 188967,
+        "name": "special_occasion",
+        "display_name": "Special Occasion",
+        "type": "occasion"
+    },
+    {
+        "id": 64485,
+        "name": "desserts",
+        "display_name": "Desserts",
+        "type": "meal"
+    },
+    {
+        "id": 65854,
+        "name": "no_bake_desserts",
+        "display_name": "No Bake Desserts",
+        "type": "dish_style"
+    },
+    {
+        "id": 1247790,
+        "name": "tongs",
+        "display_name": "Tongs",
+        "type": "equipment"
+    },
+    {
+        "id": 1247771,
+        "name": "cupcake_pan",
+        "display_name": "Cupcake Pan",
+        "type": "equipment"
+    },
+    {
+        "id": 64507,
+        "name": "tasty_junior_cookbook",
+        "display_name": "Tasty Junior Cookbook",
+        "type": "business_tags"
+    },
+    {
+        "id": 1247796,
+        "name": "zipper_storage_bags",
+        "display_name": "Zipper Storage Bags",
+        "type": "equipment"
+    },
+    {
+        "id": 65853,
+        "name": "meal_prep",
+        "display_name": "Meal Prep",
+        "type": "dish_style"
+    },
+    {
+        "id": 8091744,
+        "name": "under_15_minutes",
+        "display_name": "Under 15 Minutes",
+        "type": "difficulty"
+    },
+    {
+        "id": 64472,
+        "name": "under_30_minutes",
+        "display_name": "Under 30 Minutes",
+        "type": "difficulty"
+    },
+    {
+        "id": 65845,
+        "name": "microwave",
+        "display_name": "Microwave",
+        "type": "appliance"
+    },
+    {
+        "id": 8091756,
+        "name": "keto",
+        "display_name": "Keto",
+        "type": "dietary"
+    },
+    {
+        "id": 5812430,
+        "name": "qfp_recipes",
+        "display_name": "Quarantine Cooking: Recipe",
+        "type": "feature_page"
+    },
+    {
+        "id": 1247780,
+        "name": "parchment_paper",
+        "display_name": "Parchment Paper",
+        "type": "equipment"
+    },
+    {
+        "id": 1280497,
+        "name": "baking_kit",
+        "display_name": "Baking Kit",
+        "type": "business_tags"
+    },
+    {
+        "id": 64500,
+        "name": "date_night",
+        "display_name": "Date Night",
+        "type": "occasion"
+    },
+    {
+        "id": 65856,
+        "name": "stuffed",
+        "display_name": "Stuffed",
+        "type": "dish_style"
+    },
+    {
+        "id": 65855,
+        "name": "one_pot_or_pan",
+        "display_name": "One-Pot or Pan",
+        "type": "dish_style"
+    },
+    {
+        "id": 1691104,
+        "name": "epoca_walmart",
+        "display_name": "Epoca-Walmart",
+        "type": "business_tags"
+    },
+    {
+        "id": 64510,
+        "name": "summer",
+        "display_name": "Summer",
+        "type": "seasonal"
+    },
+    {
+        "id": 65854,
+        "name": "no_bake_desserts",
+        "display_name": "No Bake Desserts",
+        "type": "cooking_style"
+    },
+    {
+        "id": 1280502,
+        "name": "cooling_rack",
+        "display_name": "Cooling Rack",
+        "type": "equipment"
+    },
+    {
+        "id": 6718874,
+        "name": "spring_holiday",
+        "display_name": "Spring Holiday",
+        "type": "feature_page"
+    },
+    {
+        "id": 1280499,
+        "name": "baking_cups",
+        "display_name": "Baking Cups",
+        "type": "equipment"
+    },
+    {
+        "id": 64468,
+        "name": "vegan",
+        "display_name": "Vegan",
+        "type": "dietary"
+    },
+    {
+        "id": 1247786,
+        "name": "sauce_pan",
+        "display_name": "Sauce Pan",
+        "type": "equipment"
+    },
+    {
+        "id": 1247789,
+        "name": "strainer",
+        "display_name": "Strainer",
+        "type": "equipment"
+    },
+    {
+        "id": 6986107,
+        "name": "mccormick_ugc_one_pot_others",
+        "display_name": "McCormick UGC One Pot Others",
+        "type": "feature_page"
+    },
+    {
+        "id": 6683353,
+        "name": "mc_breakfast_easy",
+        "display_name": "MC Breakfast Easy",
+        "type": "feature_page"
+    },
+    {
+        "id": 64480,
+        "name": "valentines_day",
+        "display_name": "Valentine's Day",
+        "type": "holiday"
+    },
+    {
+        "id": 1280509,
+        "name": "microplane",
+        "display_name": "Microplane",
+        "type": "equipment"
+    },
+    {
+        "id": 6361701,
+        "name": "3_musketeers",
+        "display_name": "3 Musketeers",
+        "type": "feature_page"
+    },
+    {
+        "id": 7560083,
+        "name": "live_shop_all",
+        "display_name": "Live Shop All",
+        "type": "feature_page"
+    },
+    {
+        "id": 4708980,
+        "name": "walmart_holiday_bundle",
+        "display_name": "Walmart Holiday Bundle",
+        "type": "business_tags"
+    },
+    {
+        "id": 6830252,
+        "name": "budget_four",
+        "display_name": "Budget Four",
+        "type": "feature_page"
+    },
+    {
+        "id": 6683350,
+        "name": "mc_breakfast_sweet",
+        "display_name": "MC Breakfast Sweet",
+        "type": "feature_page"
+    },
+    {
+        "id": 64457,
+        "name": "mexican",
+        "display_name": "Mexican",
+        "type": "cuisine"
+    },
+    {
+        "id": 64509,
+        "name": "spring",
+        "display_name": "Spring",
+        "type": "seasonal"
+    },
+    {
+        "id": 7560081,
+        "name": "live_jasmine_and_tucker",
+        "display_name": "Live Jasmine and Tucker",
+        "type": "feature_page"
+    },
+    {
+        "id": 64453,
+        "name": "italian",
+        "display_name": "Italian",
+        "type": "cuisine"
+    },
+    {
+        "id": 6683351,
+        "name": "mc_breakfast_savory",
+        "display_name": "MC Breakfast Savory",
+        "type": "feature_page"
+    },
+    {
+        "id": 1247782,
+        "name": "pie_dish",
+        "display_name": "Pie Dish",
+        "type": "equipment"
+    },
+    {
+        "id": 64489,
+        "name": "lunch",
+        "display_name": "Lunch",
+        "type": "meal"
+    },
+    {
+        "id": 1247769,
+        "name": "cheese_grater",
+        "display_name": "Cheese Grater",
+        "type": "equipment"
+    },
+    {
+        "id": 64508,
+        "name": "fall",
+        "display_name": "Fall",
+        "type": "seasonal"
+    },
+    {
+        "id": 64479,
+        "name": "thanksgiving",
+        "display_name": "Thanksgiving",
+        "type": "holiday"
+    },
+    {
+        "id": 64506,
+        "name": "tasty_cookbook",
+        "display_name": "Tasty Cookbook",
+        "type": "business_tags"
+    },
+    {
+        "id": 5949791,
+        "name": "light_bites",
+        "display_name": "Light Bites",
+        "type": "business_tags"
+    },
+    {
+        "id": 5993379,
+        "name": "tasty_s_5th_birthday_savory",
+        "display_name": "Tasty's 5th Birthday: Savory",
+        "type": "feature_page"
+    },
+    {
+        "id": 5923249,
+        "name": "tasty_s_5th_birthday_recipe",
+        "display_name": "Tasty's 5th Birthday: Recipe",
+        "type": "feature_page"
+    },
+    {
+        "id": 1691103,
+        "name": "one_top_friendly",
+        "display_name": "One Top Friendly",
+        "type": "business_tags"
+    },
+    {
+        "id": 1247781,
+        "name": "peeler",
+        "display_name": "Peeler",
+        "type": "equipment"
+    },
+    {
+        "id": 64450,
+        "name": "german",
+        "display_name": "German",
+        "type": "cuisine"
+    },
+    {
+        "id": 65842,
+        "name": "food_processor",
+        "display_name": "Food Processor",
+        "type": "appliance"
+    },
+    {
+        "id": 1247772,
+        "name": "ice_cream_scoop",
+        "display_name": "Ice Cream Scoop",
+        "type": "equipment"
+    },
+    {
+        "id": 65853,
+        "name": "meal_prep",
+        "display_name": "Meal Prep",
+        "type": "cooking_style"
+    },
+    {
+        "id": 64486,
+        "name": "dinner",
+        "display_name": "Dinner",
+        "type": "meal"
+    },
+    {
+        "id": 2651761,
+        "name": "one_top_app_steak",
+        "display_name": "Steak",
+        "type": "business_tags"
+    },
+    {
+        "id": 2651754,
+        "name": "one_top_app_eggs",
+        "display_name": "Eggs",
+        "type": "business_tags"
+    },
+    {
+        "id": 2651756,
+        "name": "one_top_app_veggies",
+        "display_name": "Veggies",
+        "type": "business_tags"
+    },
+    {
+        "id": 6683352,
+        "name": "mc_breakfast_healthy",
+        "display_name": "MC Breakfast Healthy",
+        "type": "feature_page"
+    },
+    {
+        "id": 65852,
+        "name": "mashup",
+        "display_name": "Mashup",
+        "type": "dish_style"
+    },
+    {
+        "id": 64481,
+        "name": "appetizers",
+        "display_name": "Appetizers",
+        "type": "meal"
+    },
+    {
+        "id": 6361700,
+        "name": "snickers",
+        "display_name": "Snickers",
+        "type": "feature_page"
+    },
+    {
+        "id": 6361740,
+        "name": "hershey_s",
+        "display_name": "Hershey's",
+        "type": "feature_page"
+    },
+    {
+        "id": 64490,
+        "name": "sides",
+        "display_name": "Sides",
+        "type": "meal"
+    },
+    {
+        "id": 6718875,
+        "name": "spring_sides",
+        "display_name": "Spring Sides",
+        "type": "feature_page"
+    },
+    {
+        "id": 64475,
+        "name": "fourth_of_july",
+        "display_name": "Fourth of July",
+        "type": "holiday"
+    },
+    {
+        "id": 64474,
+        "name": "easter",
+        "display_name": "Easter",
+        "type": "holiday"
+    },
+    {
+        "id": 3801553,
+        "name": "african",
+        "display_name": "African",
+        "type": "cuisine"
+    },
+    {
+        "id": 64458,
+        "name": "middle_eastern",
+        "display_name": "Middle Eastern",
+        "type": "cuisine"
+    },
+    {
+        "id": 4202175,
+        "name": "sponsored_recipe",
+        "display_name": "Sponsored Recipe",
+        "type": "business_tags"
+    },
+    {
+        "id": 1247778,
+        "name": "paper_napkins",
+        "display_name": "Paper Napkins",
+        "type": "equipment"
+    },
+    {
+        "id": 7041323,
+        "name": "summer_sides",
+        "display_name": "Summer Sides",
+        "type": "feature_page"
+    },
+    {
+        "id": 7041339,
+        "name": "fourth_sides",
+        "display_name": "Fourth Sides",
+        "type": "feature_page"
+    },
+    {
+        "id": 64504,
+        "name": "bbq",
+        "display_name": "BBQ",
+        "type": "occasion"
+    },
+    {
+        "id": 1247795,
+        "name": "zipper_freezer_bags",
+        "display_name": "Zipper Freezer Bags",
+        "type": "equipment"
+    },
+    {
+        "id": 1247792,
+        "name": "wax_paper",
+        "display_name": "Wax Paper",
+        "type": "equipment"
+    },
+    {
+        "id": 1247791,
+        "name": "tupperware",
+        "display_name": "Tupperware",
+        "type": "equipment"
+    },
+    {
+        "id": 5923247,
+        "name": "oh_so_rose",
+        "display_name": "Oh So Ros\u00c3\u00a9",
+        "type": "business_tags"
+    },
+    {
+        "id": 1247773,
+        "name": "ice_cube_tray",
+        "display_name": "Ice Cube Tray",
+        "type": "equipment"
+    },
+    {
+        "id": 1247774,
+        "name": "lollipop_sticks",
+        "display_name": "Lollipop Sticks",
+        "type": "equipment"
+    },
+    {
+        "id": 6361741,
+        "name": "peppermint_pattie",
+        "display_name": "Peppermint Pattie",
+        "type": "feature_page"
+    },
+    {
+        "id": 64476,
+        "name": "halloween",
+        "display_name": "Halloween",
+        "type": "holiday"
+    },
+    {
+        "id": 64501,
+        "name": "game_day",
+        "display_name": "Game Day",
+        "type": "occasion"
+    },
+    {
+        "id": 64493,
+        "name": "deep_fry",
+        "display_name": "Deep-Fry",
+        "type": "method"
+    },
+    {
+        "id": 3028912,
+        "name": "chop_champ",
+        "display_name": "Chop Champ",
+        "type": "business_tags"
+    },
+    {
+        "id": 64456,
+        "name": "latin_american",
+        "display_name": "Latin American",
+        "type": "cuisine"
+    },
+    {
+        "id": 6117479,
+        "name": "tasty_ewd_fifteen",
+        "display_name": "Tasty EWD Fifteen",
+        "type": "feature_page"
+    },
+    {
+        "id": 1280505,
+        "name": "kitchen_shears",
+        "display_name": "Kitchen Shears",
+        "type": "equipment"
+    },
+    {
+        "id": 3802078,
+        "name": "pride_month",
+        "display_name": "Pride Month",
+        "type": "holiday"
+    },
+    {
+        "id": 3802077,
+        "name": "asian_pacific_american_heritage_month",
+        "display_name": "Asian Pacific American Heritage Month",
+        "type": "holiday"
+    },
+    {
+        "id": 64494,
+        "name": "grill",
+        "display_name": "Grill",
+        "type": "method"
+    },
+    {
+        "id": 1280514,
+        "name": "spider",
+        "display_name": "Spider",
+        "type": "equipment"
+    },
+    {
+        "id": 6953047,
+        "name": "dominican",
+        "display_name": "Dominican",
+        "type": "cuisine"
+    },
+    {
+        "id": 3802076,
+        "name": "black_history_month",
+        "display_name": "Black History Month",
+        "type": "holiday"
+    },
+    {
+        "id": 6389774,
+        "name": "tasty_holiday_nye",
+        "display_name": "Tasty Holiday: NYE",
+        "type": "feature_page"
+    },
+    {
+        "id": 5812431,
+        "name": "qfp_baking",
+        "display_name": "Quarantine Cooking: Baking",
+        "type": "feature_page"
+    },
+    {
+        "id": 6830248,
+        "name": "budget_10",
+        "display_name": "Budget 10",
+        "type": "feature_page"
+    },
+    {
+        "id": 6337137,
+        "name": "holiday_treats",
+        "display_name": "Holiday Treats",
+        "type": "business_tags"
+    },
+    {
+        "id": 3801552,
+        "name": "pescatarian",
+        "display_name": "Pescatarian",
+        "type": "dietary"
+    },
+    {
+        "id": 64459,
+        "name": "seafood",
+        "display_name": "Seafood",
+        "type": "cuisine"
+    },
+    {
+        "id": 65839,
+        "name": "broiler",
+        "display_name": "Broiler",
+        "type": "appliance"
+    },
+    {
+        "id": 64448,
+        "name": "chinese",
+        "display_name": "Chinese",
+        "type": "cuisine"
+    },
+    {
+        "id": 64451,
+        "name": "greek",
+        "display_name": "Greek",
+        "type": "cuisine"
+    },
+    {
+        "id": 7336055,
+        "name": "shoppable_recipes_meal_prep",
+        "display_name": "Shoppable Recipes Meal Prep",
+        "type": "feature_page"
+    },
+    {
+        "id": 6543466,
+        "name": "nynm_meal_prep",
+        "display_name": "NYNM Meal Prep",
+        "type": "feature_page"
+    },
+    {
+        "id": 6361699,
+        "name": "almond_joy",
+        "display_name": "Almond Joy",
+        "type": "feature_page"
+    },
+    {
+        "id": 6854261,
+        "name": "cinco_de_mayo",
+        "display_name": "Cinco de Mayo",
+        "type": "holiday"
+    },
+    {
+        "id": 6477325,
+        "name": "frank_s_vegetarian_snacks",
+        "display_name": "Frank's Vegetarian Snacks",
+        "type": "feature_page"
+    },
+    {
+        "id": 5143246,
+        "name": "mccormick_game_day",
+        "display_name": "McCormick Game Day",
+        "type": "business_tags"
+    },
+    {
+        "id": 6143339,
+        "name": "every_occasion",
+        "display_name": "Every Occasion",
+        "type": "business_tags"
+    },
+    {
+        "id": 5285641,
+        "name": "contains_alcohol",
+        "display_name": "Contains Alcohol",
+        "type": "dietary"
+    },
+    {
+        "id": 5831533,
+        "name": "eko_video",
+        "display_name": "Eko Video",
+        "type": "business_tags"
+    },
+    {
+        "id": 64452,
+        "name": "indian",
+        "display_name": "Indian",
+        "type": "cuisine"
+    },
+    {
+        "id": 1247776,
+        "name": "paper_bowls",
+        "display_name": "Paper Bowls",
+        "type": "equipment"
+    },
+    {
+        "id": 65847,
+        "name": "slow_cooker",
+        "display_name": "Slow Cooker",
+        "type": "appliance"
+    },
+    {
+        "id": 6718865,
+        "name": "tips_hacks",
+        "display_name": "Tips Hacks",
+        "type": "feature_page"
+    },
+    {
+        "id": 64498,
+        "name": "steam",
+        "display_name": "Steam",
+        "type": "cooking_style"
+    },
+    {
+        "id": 65856,
+        "name": "stuffed",
+        "display_name": "Stuffed",
+        "type": "cooking_style"
+    },
+    {
+        "id": 1036859,
+        "name": "licensed_video",
+        "display_name": "Licensed Video",
+        "type": "business_tags"
+    },
+    {
+        "id": 4767341,
+        "name": "tastyjunior",
+        "display_name": "tastyjunior",
+        "type": "business_tags"
+    },
+    {
+        "id": 64502,
+        "name": "happy_hour",
+        "display_name": "Happy Hour",
+        "type": "occasion"
+    },
+    {
+        "id": 65841,
+        "name": "dutch_oven",
+        "display_name": "Dutch Oven",
+        "type": "appliance"
+    },
+    {
+        "id": 1247770,
+        "name": "colander",
+        "display_name": "Colander",
+        "type": "equipment"
+    },
+    {
+        "id": 3956651,
+        "name": "mccormick_seasoned_pro",
+        "display_name": "McCormick Seasoned Pro",
+        "type": "business_tags"
+    },
+    {
+        "id": 6711300,
+        "name": "st_patrick_s_day",
+        "display_name": "St. Patrick's Day",
+        "type": "holiday"
+    },
+    {
+        "id": 3801554,
+        "name": "caribbean",
+        "display_name": "Caribbean",
+        "type": "cuisine"
+    },
+    {
+        "id": 6117480,
+        "name": "tasty_ewd_tips",
+        "display_name": "Tasty EWD Tips",
+        "type": "feature_page"
+    },
+    {
+        "id": 6953008,
+        "name": "filipino",
+        "display_name": "Filipino",
+        "type": "cuisine"
+    },
+    {
+        "id": 7145248,
+        "name": "latinx_heritage_month",
+        "display_name": "Latinx Heritage Month",
+        "type": "holiday"
+    },
+    {
+        "id": 6953039,
+        "name": "taiwanese",
+        "display_name": "Taiwanese",
+        "type": "cuisine"
+    },
+    {
+        "id": 64455,
+        "name": "korean",
+        "display_name": "Korean",
+        "type": "cuisine"
+    },
+    {
+        "id": 6931167,
+        "name": "air_fryer",
+        "display_name": "Air Fryer",
+        "type": "appliance"
+    },
+    {
+        "id": 2651758,
+        "name": "one_top_app_dessert",
+        "display_name": "Dessert",
+        "type": "business_tags"
+    },
+    {
+        "id": 6953049,
+        "name": "jamaican",
+        "display_name": "Jamaican",
+        "type": "cuisine"
+    },
+    {
+        "id": 189013,
+        "name": "brunch",
+        "display_name": "brunch",
+        "type": "meal"
+    },
+    {
+        "id": 7336056,
+        "name": "shoppable_recipes_family_dinner",
+        "display_name": "Shoppable Recipes Family Dinner",
+        "type": "feature_page"
+    },
+    {
+        "id": 5143247,
+        "name": "mccormick_easy_dinner",
+        "display_name": "McCormick Easy Dinner",
+        "type": "business_tags"
+    },
+    {
+        "id": 6986105,
+        "name": "mccormick_ugc_one_pot_pasta",
+        "display_name": "McCormick UGC One Pot Pasta",
+        "type": "feature_page"
+    },
+    {
+        "id": 6807663,
+        "name": "tasty_ewd_comfort",
+        "display_name": "Tasty EWD Comfort",
+        "type": "feature_page"
+    },
+    {
+        "id": 6117478,
+        "name": "tasty_ewd_fall",
+        "display_name": "Tasty EWD Fall",
+        "type": "feature_page"
+    },
+    {
+        "id": 6573766,
+        "name": "lunar_new_year",
+        "display_name": "Lunar New Year",
+        "type": "holiday"
+    },
+    {
+        "id": 6117476,
+        "name": "tasty_ewd_healthy",
+        "display_name": "Tasty EWD Healthy",
+        "type": "feature_page"
+    },
+    {
+        "id": 65849,
+        "name": "wok",
+        "display_name": "Wok",
+        "type": "appliance"
+    },
+    {
+        "id": 6953040,
+        "name": "swedish",
+        "display_name": "Swedish",
+        "type": "cuisine"
+    },
+    {
+        "id": 6389772,
+        "name": "tasty_holiday_christmas",
+        "display_name": "Tasty Holiday: Christmas",
+        "type": "feature_page"
+    },
+    {
+        "id": 64501,
+        "name": "game_day",
+        "display_name": "Game Day",
+        "type": "holiday"
+    },
+    {
+        "id": 6986106,
+        "name": "mccormick_ugc_one_pot_slow",
+        "display_name": "McCormick UGC One Pot Slow",
+        "type": "feature_page"
+    },
+    {
+        "id": 6543461,
+        "name": "nynm_veggie",
+        "display_name": "NYNM Veggie",
+        "type": "feature_page"
+    },
+    {
+        "id": 8104111,
+        "name": "mccormick_world_hearty",
+        "display_name": "McCormick World Hearty",
+        "type": "feature_page"
+    },
+    {
+        "id": 8104112,
+        "name": "mccormick_world_vegetarian",
+        "display_name": "McCormick World Vegetarian",
+        "type": "feature_page"
+    },
+    {
+        "id": 3956653,
+        "name": "club_house_seasoned_pro",
+        "display_name": "Club House Seasoned Pro",
+        "type": "business_tags"
+    },
+    {
+        "id": 3956652,
+        "name": "schwartz_seasoned_pro",
+        "display_name": "Schwartz Seasoned Pro",
+        "type": "business_tags"
+    },
+    {
+        "id": 5923248,
+        "name": "srsly_sauv_blanc",
+        "display_name": "Srsly Sauv Blanc",
+        "type": "business_tags"
+    },
+    {
+        "id": 64493,
+        "name": "deep_fry",
+        "display_name": "Deep-Fry",
+        "type": "cooking_style"
+    },
+    {
+        "id": 6953016,
+        "name": "west_african",
+        "display_name": "West African",
+        "type": "cuisine"
+    },
+    {
+        "id": 7041337,
+        "name": "fourth_eat",
+        "display_name": "Fourth Eat",
+        "type": "feature_page"
+    },
+    {
+        "id": 64460,
+        "name": "thai",
+        "display_name": "Thai",
+        "type": "cuisine"
+    },
+    {
+        "id": 7436546,
+        "name": "uber_game_day_ribs",
+        "display_name": "Uber Game Day Ribs",
+        "type": "feature_page"
+    },
+    {
+        "id": 6742797,
+        "name": "passover",
+        "display_name": "Passover",
+        "type": "holiday"
+    },
+    {
+        "id": 2651755,
+        "name": "one_top_app_seafood",
+        "display_name": "Seafood",
+        "type": "business_tags"
+    },
+    {
+        "id": 6718869,
+        "name": "spring_eat",
+        "display_name": "Spring Eat",
+        "type": "feature_page"
+    },
+    {
+        "id": 7723151,
+        "name": "franks_handheld_bites",
+        "display_name": "Franks Handheld Bites",
+        "type": "feature_page"
+    },
+    {
+        "id": 64461,
+        "name": "vietnamese",
+        "display_name": "Vietnamese",
+        "type": "cuisine"
+    },
+    {
+        "id": 7559500,
+        "name": "shoppable_recipes_holiday_dinners",
+        "display_name": "Shoppable Recipes Holiday Dinners",
+        "type": "feature_page"
+    },
+    {
+        "id": 7510773,
+        "name": "thanksgiving_vegetarian",
+        "display_name": "Thanksgiving Vegetarian",
+        "type": "feature_page"
+    },
+    {
+        "id": 7510744,
+        "name": "thanksgiving_classics",
+        "display_name": "Thanksgiving Classics",
+        "type": "feature_page"
+    },
+    {
+        "id": 7559499,
+        "name": "shoppable_recipes_thanksgiving",
+        "display_name": "Shoppable Recipes Thanksgiving",
+        "type": "feature_page"
+    },
+    {
+        "id": 6389771,
+        "name": "tasty_holiday_thanksgiving",
+        "display_name": "Tasty Holiday: Thanksgiving",
+        "type": "feature_page"
+    },
+    {
+        "id": 7041322,
+        "name": "summer_holiday",
+        "display_name": "Summer Holiday",
+        "type": "feature_page"
+    },
+    {
+        "id": 2651753,
+        "name": "one_top_app_meat",
+        "display_name": "Meat",
+        "type": "business_tags"
+    },
+    {
+        "id": 6953044,
+        "name": "peruvian",
+        "display_name": "Peruvian",
+        "type": "cuisine"
+    },
+    {
+        "id": 5923246,
+        "name": "beyond_red_blend",
+        "display_name": "Beyond Red Blend",
+        "type": "business_tags"
+    },
+    {
+        "id": 1247783,
+        "name": "plastic_utensils",
+        "display_name": "Plastic Utensils",
+        "type": "equipment"
+    },
+    {
+        "id": 64446,
+        "name": "brazilian",
+        "display_name": "Brazilian",
+        "type": "cuisine"
+    },
+    {
+        "id": 2651759,
+        "name": "one_top_app_grains",
+        "display_name": "Grains",
+        "type": "business_tags"
+    },
+    {
+        "id": 2651757,
+        "name": "one_top_app_sides",
+        "display_name": "Sides",
+        "type": "business_tags"
+    },
+    {
+        "id": 7510745,
+        "name": "thanksgiving_sides",
+        "display_name": "Thanksgiving Sides",
+        "type": "feature_page"
+    },
+    {
+        "id": 64494,
+        "name": "grill",
+        "display_name": "Grill",
+        "type": "cooking_style"
+    },
+    {
+        "id": 6477316,
+        "name": "frank_s_chicken_bites",
+        "display_name": "Frank's Chicken Bites",
+        "type": "feature_page"
+    },
+    {
+        "id": 64445,
+        "name": "bbq",
+        "display_name": "BBQ",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953014,
+        "name": "kenyan",
+        "display_name": "Kenyan",
+        "type": "cuisine"
+    },
+    {
+        "id": 7723148,
+        "name": "franks_spicy_bites",
+        "display_name": "Franks Spicy Bites",
+        "type": "feature_page"
+    },
+    {
+        "id": 6389773,
+        "name": "tasty_holiday_hanukkah",
+        "display_name": "Tasty Holiday: Hanukkah",
+        "type": "feature_page"
+    },
+    {
+        "id": 1247779,
+        "name": "paper_plates",
+        "display_name": "Paper Plates",
+        "type": "equipment"
+    },
+    {
+        "id": 4767336,
+        "name": "instant_pot",
+        "display_name": "Instant Pot",
+        "type": "appliance"
+    },
+    {
+        "id": 1247777,
+        "name": "paper_cups",
+        "display_name": "Paper Cups",
+        "type": "equipment"
+    },
+    {
+        "id": 6953041,
+        "name": "haitian",
+        "display_name": "Haitian",
+        "type": "cuisine"
+    },
+    {
+        "id": 6477317,
+        "name": "frank_s_cheesy_apps",
+        "display_name": "Frank's Cheesy Apps",
+        "type": "feature_page"
+    },
+    {
+        "id": 6953042,
+        "name": "persian",
+        "display_name": "Persian",
+        "type": "cuisine"
+    },
+    {
+        "id": 2651760,
+        "name": "one_top_app_sauces",
+        "display_name": "Sauces",
+        "type": "business_tags"
+    },
+    {
+        "id": 6953013,
+        "name": "ethiopian",
+        "display_name": "Ethiopian",
+        "type": "cuisine"
+    },
+    {
+        "id": 8104110,
+        "name": "mccormick_world_sides",
+        "display_name": "McCormick World Sides",
+        "type": "feature_page"
+    },
+    {
+        "id": 7041320,
+        "name": "summer_eat",
+        "display_name": "Summer Eat",
+        "type": "feature_page"
+    },
+    {
+        "id": 4767335,
+        "name": "pressure_cooker",
+        "display_name": "Pressure Cooker",
+        "type": "appliance"
+    },
+    {
+        "id": 6953048,
+        "name": "cuban",
+        "display_name": "Cuban",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953050,
+        "name": "puerto_rican",
+        "display_name": "Puerto Rican",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953051,
+        "name": "soul_food",
+        "display_name": "Soul Food",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953045,
+        "name": "indigenous",
+        "display_name": "Indigenous",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953046,
+        "name": "laotian",
+        "display_name": "Laotian",
+        "type": "cuisine"
+    },
+    {
+        "id": 6986104,
+        "name": "mccormick_ugc_one_pot_winners",
+        "display_name": "McCormick UGC One Pot Winners",
+        "type": "feature_page"
+    },
+    {
+        "id": 3527977,
+        "name": "holiday_cookie_recipe",
+        "display_name": "Holiday Cookie: Recipe",
+        "type": "feature_page"
+    },
+    {
+        "id": 7559501,
+        "name": "shoppable_recipes_seasonal_desserts",
+        "display_name": "Shoppable Recipes Seasonal Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 7041340,
+        "name": "fourth_desserts",
+        "display_name": "Fourth Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 8030030,
+        "name": "charcuterie_sweetchuterie",
+        "display_name": "Charcuterie Sweetchuterie",
+        "type": "feature_page"
+    },
+    {
+        "id": 3527978,
+        "name": "holiday_cookie_howto",
+        "display_name": "Holiday Cookie: How To",
+        "type": "feature_page"
+    },
+    {
+        "id": 6543465,
+        "name": "nynm_desserts",
+        "display_name": "NYNM Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 2651752,
+        "name": "one_top_app_main_feed",
+        "display_name": "Main Feed",
+        "type": "business_tags"
+    },
+    {
+        "id": 7510771,
+        "name": "thanksgiving_desserts",
+        "display_name": "Thanksgiving Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 6433722,
+        "name": "tasty_holiday_snacks",
+        "display_name": "Tasty Holiday: Snacks",
+        "type": "feature_page"
+    },
+    {
+        "id": 7041324,
+        "name": "summer_desserts",
+        "display_name": "Summer Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 7041336,
+        "name": "fourth_picks",
+        "display_name": "Fourth Picks",
+        "type": "feature_page"
+    },
+    {
+        "id": 7510772,
+        "name": "thanksgiving_sips",
+        "display_name": "Thanksgiving Sips",
+        "type": "feature_page"
+    },
+    {
+        "id": 8104113,
+        "name": "mccormick_world_desserts",
+        "display_name": "McCormick World Desserts",
+        "type": "feature_page"
+    },
+    {
+        "id": 3801551,
+        "name": "ice_cream_social",
+        "display_name": "Ice Cream Social",
+        "type": "business_tags"
+    },
+    {
+        "id": 6389775,
+        "name": "tasty_holiday_festive_favorites",
+        "display_name": "Tasty Holiday: Festive Favorites",
+        "type": "feature_page"
+    },
+    {
+        "id": 8030029,
+        "name": "charcuterie_dips",
+        "display_name": "Charcuterie Dips",
+        "type": "feature_page"
+    },
+    {
+        "id": 188969,
+        "name": "picnic",
+        "display_name": "picnic",
+        "type": "occasion"
+    },
+    {
+        "id": 7987314,
+        "name": "charcuterie_inspiration",
+        "display_name": "Charcuterie Inspiration",
+        "type": "feature_page"
+    },
+    {
+        "id": 6953012,
+        "name": "hawaiian",
+        "display_name": "Hawaiian",
+        "type": "cuisine"
+    },
+    {
+        "id": 7783334,
+        "name": "butterfinger_other_recipes",
+        "display_name": "Butterfinger Other Recipes",
+        "type": "feature_page"
+    },
+    {
+        "id": 7783331,
+        "name": "butterfinger_winner",
+        "display_name": "Butterfinger Winner",
+        "type": "feature_page"
+    },
+    {
+        "id": 8227134,
+        "name": "juneteenth",
+        "display_name": "Juneteenth",
+        "type": "holiday"
+    },
+    {
+        "id": 6207870,
+        "name": "walmart_plus_holiday_2020",
+        "display_name": "Walmart Plus Holiday 2020",
+        "type": "business_tags"
+    },
+    {
+        "id": 188968,
+        "name": "no_bake_desserts",
+        "display_name": "no_bake_desserts",
+        "type": "method"
+    },
+    {
+        "id": 188970,
+        "name": "party",
+        "display_name": "party",
+        "type": "occasion"
+    },
+    {
+        "id": 3802079,
+        "name": "hispanic_heritage_month",
+        "display_name": "Hispanic Heritage Month",
+        "type": "holiday"
+    },
+    {
+        "id": 7783332,
+        "name": "butterfinger_runner_up_cookies",
+        "display_name": "Butterfinger Runner Up Cookies",
+        "type": "feature_page"
+    },
+    {
+        "id": 7783333,
+        "name": "butterfinger_runner_up_bark",
+        "display_name": "Butterfinger Runner Up Bark",
+        "type": "feature_page"
+    },
+    {
+        "id": 8030031,
+        "name": "charcuterie_appetizers",
+        "display_name": "Charcuterie Appetizers",
+        "type": "feature_page"
+    },
+    {
+        "id": 7608068,
+        "name": "shoppable_recipes_holiday_appetizers",
+        "display_name": "Shoppable Recipes Holiday Appetizers",
+        "type": "feature_page"
+    },
+    {
+        "id": 7436545,
+        "name": "uber_game_day_dips",
+        "display_name": "Uber Game Day Dips",
+        "type": "feature_page"
+    },
+    {
+        "id": 7436547,
+        "name": "uber_game_day_sliders",
+        "display_name": "Uber Game Day Sliders",
+        "type": "feature_page"
+    },
+    {
+        "id": 7436544,
+        "name": "uber_game_day_appetizers",
+        "display_name": "Uber Game Day Appetizers",
+        "type": "feature_page"
+    },
+    {
+        "id": 7987316,
+        "name": "charcuterie_recipes",
+        "display_name": "Charcuterie Recipes",
+        "type": "feature_page"
+    },
+    {
+        "id": 7723150,
+        "name": "franks_dips",
+        "display_name": "Franks Dips",
+        "type": "feature_page"
+    },
+    {
+        "id": 6953043,
+        "name": "lebanese",
+        "display_name": "Lebanese",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953015,
+        "name": "south_african",
+        "display_name": "South African",
+        "type": "cuisine"
+    },
+    {
+        "id": 6953052,
+        "name": "venezuelan",
+        "display_name": "Venezuelan",
+        "type": "cuisine"
+    }
+]
