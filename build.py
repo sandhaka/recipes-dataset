@@ -89,7 +89,9 @@ class Tag:
 # Read data
 dishes = pd.read_csv("dishes.csv", sep=",", quotechar='"', encoding="latin1")
 tags = pd.read_csv("tags.csv", sep=",", encoding="latin1")
-with open("ingredient_and_instructions.json", "r") as f:
+
+# Read the JSON data from file
+with open('ingredient_and_instructions.json', 'r', encoding='utf-8') as f:
     recipes = json.load(f)
 
 # Processing
@@ -181,7 +183,8 @@ class DictEncoder(json.JSONEncoder):
 
 
 with open("out_set/recipes.json", "w") as f:
-    json.dump(recipes_collection, f, cls=DictEncoder, indent=4)
+    d = json.dumps(recipes_collection, cls=DictEncoder, indent=4, ensure_ascii=False)
+    f.write(d)
 with open("out_set/tags.json", "w") as f:
     json.dump(tags_collection, f, cls=DictEncoder, indent=4)
 with open("out_set/dishes.json", "w") as f:
